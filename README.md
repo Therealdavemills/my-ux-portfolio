@@ -17,4 +17,4 @@ Welcome! I'm a UI/UX designer focused on crafting intuitive, human-centered digi
 ## ✨ About Me
 I'm passionate about improving usability through thoughtful design. Always learning, always building.
 
-📫 Reach me: [mitcheldavid17@gmail.com] | [your portfolio link] | [therealdavemills]
+📫 Reach me: [mitcheldavid17@gmail.com] | [https://github.com/Therealdavemills/my-ux-portfolio/tree/main] | [therealdavemills]
