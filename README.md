@@ -1,5 +1,3 @@
-# my-ux-portfolio
-A collection of my UI/UX design case studies, prototypes, and design process documentation.
 # 🎨 My UX Portfolio
 
 Welcome! I'm a UI/UX designer focused on crafting intuitive, human-centered digital experiences.
